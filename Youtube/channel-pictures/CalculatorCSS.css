@@ -1,0 +1,106 @@
+body{
+    display: flex;
+   
+    justify-content: center;
+}
+.Header1{
+    display: flex;
+    margin-bottom: 5px;
+    
+}
+.same1{
+    margin: 0px;
+    margin-top: 7px;
+}
+.imgCalcu{
+    height: 13px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.Calculator
+{
+    
+    width: 273px;
+    height: 425px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  /* margin: auto; */
+}
+.Header{
+    width: 260px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0px;
+    justify-content: space-between;
+}
+.left-section{
+    display: flex;
+    align-items: center;
+}
+.img1
+{
+   height: 17px;
+   width: 17px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+.Standard
+{
+    margin-left: 0;
+    margin-right: 15px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+}
+.xvg{
+    height: 15px;
+    width: 15px;
+}
+.xvg2{
+    height: 15px;
+    width: 15px;
+}
+.Center{
+    width: 270px;
+    height: 55px;
+    
+}
+.So0{
+   font-size: 40px;
+   margin-top: 20px;
+   margin-bottom: 0px;
+   margin-left: 230px;
+   font-weight: bold;
+}
+.similar{
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-family: Arial;
+    font-size: 11px;
+}
+.Under-center{
+    display: flex;
+    justify-content: space-around;
+}
+.component
+{
+    height: 41px;
+    border: 1px solid;
+    border-radius: 4px;
+}
+.bottom{
+    display: grid;
+    grid-template-columns: 67px 67px 67px 67px;
+    column-gap: 1px;
+    row-gap: 1px;
+}
+.icon-delete
+{
+    margin-top: 4px;
+    width: 15px;
+    height: 15px;
+}
